@@ -1,6 +1,6 @@
-# rubbish_man
+# Dino reborn
 
-A new Flutter project.
+[Demo Link](https://www.youtube.com/watch?v=YHJn8CfCh9E&list=PLM8Wi_OeCwQgJbCH-1zJvCknVKzq9LwU7&index=4)
 
 ## Getting Started
 
